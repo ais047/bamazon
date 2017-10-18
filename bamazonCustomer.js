@@ -1,4 +1,3 @@
-
 const mySQL = require('mySQL');
 const inquirer = require('inquirer');
 const Table = require('easy-table');
@@ -99,5 +98,4 @@ var inquirerInitial = function() {
             }
         })
     })
-}
 }
